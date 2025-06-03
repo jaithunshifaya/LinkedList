@@ -18,3 +18,14 @@ This repository contains my solutions to various **Linked List problems** from [
    ```bash
    git clone https://github.com/jaithunshifaya/LinkedList.git
    cd LinkedList
+
+2. Open and run the desired solution file using your preferred IDE or compiler.
+
+🙌 Contributing
+Contributions are welcome! If you’d like to add more solutions or optimize the current ones, feel free to fork the repo and submit a pull request.
+
+📬 Contact
+📧 Email: jaithunshifaya@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/jaithun-shifaya03
+
