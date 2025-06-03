@@ -21,10 +21,13 @@ This repository contains my solutions to various **Linked List problems** from [
 
 2. Open and run the desired solution file using your preferred IDE or compiler.
 
-🙌 Contributing
+
+## 🙌 Contributing
+
 Contributions are welcome! If you’d like to add more solutions or optimize the current ones, feel free to fork the repo and submit a pull request.
 
-📬 Contact
+## 📬 Contact
+
 📧 Email: jaithunshifaya@gmail.com
 
 🔗 LinkedIn: linkedin.com/in/jaithun-shifaya03
