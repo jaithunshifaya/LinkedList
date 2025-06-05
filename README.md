@@ -1,6 +1,6 @@
-# 🔗 Linked List LeetCode Problem Solutions
+## 🔗 Linked List LeetCode Problem Solutions
 
-This repository contains my solutions to various **Linked List problems** from [LeetCode](https://leetcode.com/). These problems help in strengthening data structure fundamentals and enhancing problem-solving skills
+This repository contains my solutions to various **Linked List problems** from [LeetCode](https://leetcode.com/). These problems help in strengthening data structure fundamentals and enhancing problem-solving skills.
 
 ---
 
