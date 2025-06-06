@@ -26,7 +26,7 @@ This repository contains my solutions to various **Linked List problems** from [
 
 Contributions are welcome! If you’d like to add more solutions or optimize the current ones, feel free to fork the repo and submit a pull request.
 
-## 📬 Contact
+## 📬 Connect
 
 📧 Email: jaithunshifaya@gmail.com
 
