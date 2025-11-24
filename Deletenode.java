@@ -1,5 +1,4 @@
 class Solution {
-    @SuppressWarnings("unused")
     public void deleteNode(ListNode node) {
         ListNode curr=node;
         ListNode next =node;
