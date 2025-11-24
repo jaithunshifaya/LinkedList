@@ -4,7 +4,7 @@ class Solution {
         ListNode right=head;
         
         for(int i=0; i<n;i++){
-            right=right.next;
+            right = right.next;
         }
         if(right == null){
             return head.next;
