@@ -81,6 +81,6 @@ public class Main {
         Solution sol = new Solution();
         ListNode result = sol.addTwoNumbers(l1, l2);
 
-        System.out.println("Result: " + result); // Expected: [7, 8, 0, 7]
+        System.out.println("Result: " + result); 
     }
 }
