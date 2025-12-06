@@ -4,25 +4,16 @@ class Solution {
         for (int i = 0; i < a - 1; i++) {
             prevA = prevA.next;
         }
-
-        
         ListNode afterB = prevA;
         for (int i = 0; i < b - a + 2; i++) {
             afterB = afterB.next;
         }
-
-       
         prevA.next = list2;
-
-        
         ListNode tail = list2;
         while (tail.next != null) {
             tail = tail.next;
         }
-
-        
         tail.next = afterB;
-
         return list1;
     }
 }
